@@ -1,0 +1,163 @@
+//---------------------------------E-commerce website for gamers----------------------//
+<!DOCTYPE html>
+<html>
+<head><title>GAME HAVEN</title>
+<link rel="short icon" type="image/x" href="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/favicon.jpg">
+</head>
+<style>
+header{text-align:center;background:black;color:orange;padding:30px;}
+h4{color:white;}
+h2{text-align:center;border:5px solid orange;}
+a{background-color:green;color:white;align:center;border-radius:4px;text-decoration:none;}
+table{align:center;width:100%;border:0;}
+p{align:center;color:gray;}
+footer{background-color:dimgray;color:white;}
+</style>
+<body>
+<header>
+<h1>GAME HAVEN</h1>
+<h4>YOUR ULTIMATE GAMING STORE</h4> 
+</header>
+<h2>HAVEN'S SPECIAL</h2>
+<image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/hot.jpg"width="100%"height="400"border="2px"/>
+<h3 align="center">DESCRIPTION</h3>
+<p>"Cyberpunk 2077 is a game that lets you experience a dark and futuristic world, where you can create your own cyberpunk character and shape the story and the city with your choices. You can customize your skills, cyberware, weapons, and outfits, and take on various missions, from hacking to combat to stealth. You can also claim exclusive items and goodies inspired by the Cyberpunk universe. Cyberpunk 2077 is a game that has been improved and updated with new features and content, such as a spy-thriller expansion, a vehicle combat system, and more. Cyberpunk 2077 is a game that will immerse you in a thrilling and immersive cyberpunk adventure."</p>
+<a href="https://store.steampowered.com/app/1091500/Cyberpunk_2077/"><p style="text-align:center;background-color:green;color:white;border-radius:25px;text-decoration:none;">SHOP NOW(PC)</p></a>
+<a href="https://www.bing.com/ck/a?!&&p=c16e454a5936027fJmltdHM9MTcwMTIxNjAwMCZpZ3VpZD0yNTk4YWMwYS0zMjMzLTY4NTMtMTczMC1iZWVlMzMzYTY5M2QmaW5zaWQ9NTI0Mw&ptn=3&ver=2&hsh=3&fclid=2598ac0a-3233-6853-1730-beee333a693d&psq=cyber+punk+console+download&u=a1aHR0cHM6Ly93d3cueGJveC5jb20vZW4tVVMvZ2FtZXMvY3liZXJwdW5rLTIwNzc&ntb=1"><p style="text-align:center;background-color:green;color:white;border-radius:25px;text-decoration:none;">SHOP NOW(CONSOLE)</p></a>
+<h2>NEW ARRIVAL</h2> 
+<h3 align="center">ROCKSTAR PRESENTS</h3>
+<p align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/OIF.jpeg"style="border-radius:20px;width:55%;"></p>
+<p align="center"><a href="">PRE ORDER NOW</a></p>
+<h3 align="center">Your Wait Is Over Now </h3>
+<p align="center"><a href="https://youtu.be/QdBZY2fkU-0">GTA 6 Trailer is here.......</a></p>
+<p align="center"><a href="https://www.rockstargames.com/">For further information visit here(Rockstar Games Website)</a></p>
+<h2>HAVEN´S CATEGORIES</h2>
+<table>
+<tr><td align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/2480687.png"width="30%"><h3>PC</h3></td>
+<td align="left"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/OIP%20(1).jpeg"width="55%"><h3>CONSOLE</h3><td>
+</table>
+<h3 style="text-align:center;border:2px solid black;">CONSOLE GAMES</h3>
+<table>
+<tr><td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2018.39.05_e227872b.jpg"width="200px">
+<a href="https://store.playstation.com/en-us/product/UP9000-CUSA00341_00-UNCHARTED0000000"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2018.39.15_fb0c7b5e.jpg"width="196px">
+<a href="https://store.playstation.com/en-us/product/UP9000-CUSA00341_00-UNCHARTED0000000"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2018.38.49_bacf2068.jpg"width="205px">
+<a href="https://store.playstation.com/en-us/product/UP9000-CUSA02299_00-MARVELSSMGOTY000"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2018.39.57_d9d8bee1.jpg"width="195px">
+<a href="https://store.playstation.com/en-us/product/UP9000-PPSA03396_00-THELASTOFUSPART1"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2018.40.08_dd0ccb52.jpg"width="210px">
+<a href="https://store.playstation.com/en-us/product/UP1004-CUSA03041_00-REDEMPTIONFULL02"><p style="text-align:center">Shop Now</a></td>
+<td><a href="https://www.xbox.com/en-US/browse/games?PlayWith=XboxSeriesX%7CS"style="background-color:white;color:blue;">More...</a>
+</td></tr></table>
+<h3 style="text-align:center;border:2px solid black;">PC GAMES</h3><table>
+<tr><td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2020.01.32_84034a48.jpg"width="210px">
+<a href="https://www.imdb.com/title/tt12497188/" ><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2019.56.25_7950d991.jpg"width="180px">
+<a href="https://www.imdb.com/title/tt14870662/"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2020.06.11_42189536.jpg"width="235px">
+<a href="https://www.imdb.com/title/tt3391132/"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2019.55.37_20328c54.jpg"width="204px">
+<a href="https://store.steampowered.com/app/870780/Control_Ultimate_Edition/"><p style="text-align:center">Shop Now</a></td>
+<td><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-21%20at%2019.54.13_fdbb3e07.jpg"width="183px">
+<a href="https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_40th_Anniversary_Edition/"><p style="text-align:center">Shop Now</a></td>
+<td><a href="https://store.steampowered.com/search/?term="style="background-color:white;color:blue;">More...</a></td></tr>
+</table width="40%">
+<h2>HAVEN´S OFFERS AND DISCOUNTS</h2>
+<h3 style="text-align:center;background-color:black;color:white;">BLACK FRIDAY SALE</h3>
+<image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/jgh.png"/width="16%">
+<table>
+<tr><td style="border:5px solid orange;width:33%;"align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-27%20at%2020.27.55_63a26e78.jpg"width="200"/>
+<p>"Dead Island 2 is a co-op zombie game with humor and gore. You can slash zombies in LA as one of six immune slayers. The game is 50% off now, so get it from the official website. It’s a bloody fun game.Trust me, you won’t regret it.".</p>
+<h3>DOWNLOADS</h3>
+<a href="https://gg.deals/game/dead-island-2/"><p style="text-align:center">Shop Now(PC)</a>
+<a href="https://gg.deals/game/dead-island-2-xbox-one-series/"><p style="text-align:center">Shop Now(Console)</a></td>
+<td style="border:5px solid orange;width:33%"align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-27%20at%2020.27.55_ecc2cc25.jpg"width="230"/>
+<p>"Assassin’s Creed Mirage is a game that lets you become a 9th-century assassin in Baghdad. You will explore, parkour, and kill in a realistic and beautiful city.The game is 50% off now, and you can buy it from the official website.It’s a great game that you will love."</p>
+<h3>DOWNLOADS</h3>
+<a href="https://gg.deals/game/assassins-creed-mirage/"><p style="text-align:center">Shop Now(PC)</a>
+<a href="https://gg.deals/game/assassins-creed-mirage-xbox-one-series/"><p style="text-align:center">Shop Now(Console)</a></td>
+<td style="border:5px solid orange;width:33%"align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/WhatsApp%20Image%202023-11-27%20at%2020.27.55_0e80073e.jpg"width="245"/>
+<p>"Mortal Kombat is a fighting game with realistic graphics, special moves, and brutal finishing moves. The game has a story mode, online and offline modes, and customization options.It is on a 50% discount, which is a great deal. If you like action, adventure, and violence, you should try it."</p>
+<h3>DOWNLOADS</h3>
+<a href="https://gg.deals/game/mortal-kombat-2023/"><p style="text-align:center">Shop Now(PC)</a>
+<a href="https://gg.deals/game/mortal-kombat-1-xbox-series/"><p style="text-align:center">Shop Now(Console)</a></td></tr></table>
+<h3 style="text-align:center;background-color:black;color:white;">HAVEN´S  FEATURED  AND  RECOMMENDED</h3>
+<image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/OIP%20(2).jpeg"width="14%">
+<table>
+<tr><td style="border:5px solid orange;width:33%;"align="left"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/maxresdefault.jpg"style="margin-top:25px;width:100%">
+<h3 align="center">PC Requirments</h3><p><ul><li>CPU: Intel® Pentium® 4 2.4 Ghz / AMD® 64 ™ 2800+ / Intel® and AMD® 1.8 Ghz Dual Core Processor or better supported.</li>
+<li>Memory: 512 MB RAM (Windows® XP), 768 MB RAM (Vista®).</li>
+<li>Graphics Card: NVIDIA GeForce 6600 or better or ATI Radeon® 9800Pro or better.</li>
+<li>Sound Card: 100% DirectX 9.0c compatible sound card.</li>
+<li>Hard Drive: 8 GB of free hard drive space.</li>
+<li>OS: Windows Vista.</li></ul>
+<a href="https://oceansofgamess.com/call-of-duty-4-modern-warfare-setup-free-download/"><p style="text-align:center">Shop Now(PC)</a>
+<h3 align="center">Console Requirment</h3><p><ul><li>PlayStation 3 and onwards:The game requires around 8 GB.</li>
+<li>Xbox 360 and ownwards.The game requires around 8GB.</li></ul>
+<a href="https://www.xbox.com/en-US/games/store/call-of-duty-modern-warfare-digital-standard-edition/9NVQBQ3F6W9W"><p style="text-align:center">Shop Now(Console)</a>
+</td>
+<td style="border:5px solid orange;width:33%;"align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/OIP%20(3).jpeg"style="margin-bottom:10px;width:100%;">
+<h3>PC Requirments</h3><p><ul><li align="left">OS: Windows XP/ Vista, Windows 7, Windows 8.</li>
+<li align="left">Processor: Intel Core™ 2 Duo 2.4 Ghz, AMD Athlon™ X2 2.8 Ghz or higher.</li>
+<li align="left">Memory: 8 GB of RAM.</li>
+<li align="left">Graphics: NVIDIA® GeForce® 8800GTS or higher, ATI Radeon™ HD 4850 or higher.</li>
+<li align="left">DirectX: Version 9.0c and Sound Card: Standard audio device.</li>
+<li align="left">Storage: 15 GB of available space.</li></ul>
+<a href="https://store.steampowered.com/app/2050650/Resident_Evil_4/"><p style="text-align:center">Shop Now(PC)</a>
+<h3>Console Requirment</h3><p><ul><li align="left">PlayStation 4 and 5:The game requires around 60 GB.</li>
+<li align="left">Xbox One and series X|S:The game requires around 60 GB.</li></ul>
+<a href="https://www.bing.com/ck/a?!&&p=0d09ae76566940e0JmltdHM9MTcwMTIxNjAwMCZpZ3VpZD0yNTk4YWMwYS0zMjMzLTY4NTMtMTczMC1iZWVlMzMzYTY5M2QmaW5zaWQ9NTMwNA&ptn=3&ver=2&hsh=3&fclid=2598ac0a-3233-6853-1730-beee333a693d&psq=resident+evil+4+console+download&u=a1aHR0cHM6Ly9yb21zcHVyZS5jYy9yb21zL3NvbnktcGxheXN0YXRpb24tMy9yZXNpZGVudC1ldmlsLTQtaGQv&ntb=1"><p style="text-align:center">Shop Now(Console)</a></td>
+<td style="border:5px solid orange;width:33%;"align="right"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/OIP.jpeg"style="margin-bottom:-10px;width:100%;">
+<h3 align="center">PC Requirments</h3><p><ul><li align="left">OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit.</li>
+<li align="left">Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz.</li>
+<li align="left">Memory: 4 GB of RAM.</li>
+<li align="left">Graphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB .</li>
+<li align="left">Sound Card: 100% DirectX 10 compatible.</li>
+<li align="left">HDD Space: 65 GB of available space.</li></ul>
+<a href="https://store.rockstargames.com/game/buy-gta-v"><p style="text-align:center">Shop Now(PC)</a>
+<h3 align="center">Console Requirment</h3><p><ul><li align="left">PlayStation 3,4 and 5: The game requires around 60 GB.</li>
+<li align="left">Xbox 360,One and Series X|S: The game requires around 60 GB.</li></ul>
+<a href="https://www.sportskeeda.com/gta/gta-5-system-requirements-download-size-links-installation-details"><p style="text-align:center">Shop Now(Console)</a></td></tr>
+</table>
+<h2>Reviews and Rating</h2>
+<h3 align="center">REVIEWS</h3>
+<table><tr><td style="background-color:gainsboro;color:black;align:center;border-radius:12px;text-decoration:none;"><h4 style="color:black;align:center;align:center;border-radius:6px;text-decoration:none;">**GameHaven Earns a Solid 9/10!**</h4>
+   "GameHaven has won me over with its extensive game selection and user-friendly interface. Navigating the website was a breeze, and I found the titles I was searching for without any hassle.
+"</td><td style="background-color:gainsboro;color:black;align:center;border-radius:12px;text-decoration:none;"><h4 style="color:black;align:center;border-radius:6px;text-decoration:none;">**Exceptional Experience at GameHaven – 8.5/10!**</h4>
+   "GameHaven delivers an exceptional online shopping experience for gamers. The website's layout is visually appealing, and the range of games available is impressive. I appreciate the detailed game reviews and recommendations, helping me make informed decisions."</td><td style="background-color:gainsboro;color:black;align:center;border-radius:12px;text-decoration:none;"><h4 style="color:black;align:center;border-radius:25px;text-decoration:none;">**GameHaven – 8/10 for Gaming Excellence!**</h4>
+   "GameHaven offers a superb gaming shopping experience. The website is well-organized, and the game categories are extensive. The prices are competitive, and the checkout process is straightforward."
+</td></tr>
+<tr><td style="background-color:gainsboro;color:black;align:center;border-radius:12px;text-decoration:none;"><h4 style="color:black;align:center;border-radius:6px;text-decoration:none;">**GameHaven – A Perfect 10 for Gamers!**</h4>
+   "GameHaven has truly earned its name as a haven for gamers. The website's sleek design, with an extensive game catalog, makes it a joy to explore. The prices are competitive, and the checkout process is seamless. With prompt deliveries and excellent customer support."
+   </td><td style="background-color:gainsboro;color:black;align:center;border-radius:12px;text-decoration:none;"><h4 style="color:black;align:center;border-radius:6px;text-decoration:none;">**Impressive Variety and Service – GameHaven Scores 9.5/10!**</h4>
+   "GameHaven impressed me with its vast selection of games and unbeatable deals. The website's layout is intuitive, making it easy to find what I was looking for. I particularly appreciate the regular discounts and promotions. With quick deliveries and a helpful customer service team, It's a fantastic gaming hub!"
+   </td><td style="background-color:gainsboro;color:black;text-align:center;align:center;border-radius:12px;text-decoration:none;"><a href="https://www.bing.com/ck/a?!&&p=dc5c82b795b068c6JmltdHM9MTcwMTM4ODgwMCZpZ3VpZD0yNTk4YWMwYS0zMjMzLTY4NTMtMTczMC1iZWVlMzMzYTY5M2QmaW5zaWQ9NTE5NQ&ptn=3&ver=2&hsh=3&fclid=2598ac0a-3233-6853-1730-beee333a693d&psq=steam+discort&u=a1aHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvc3RlYW0&ntb=1"style="text-align:center;background-color:lightgray;color:black;align:center;border-radius:25px;text-decoration:none;">COMMUNITY COMMENTS.............</a></td></tr></table>
+   <h3 align="center">RATING</h3>
+<p align="center"><image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/OIP%20(5).jpeg"width="20%"></p>
+<h2 align="center">COMMUNITY TALK</h2>
+<image src="file:///C:/Users/Faaiz/OneDrive/Apps/Desktop/ict%20project/Screenshot%202023-11-30%20124220.png"align="center"width="70%">
+<h2>ABOUT US</h2>
+<p>"Are you looking for a new and exciting way to buy games online? Do you want to join a community of gamers who share your passion and interests? If so, then you should check out GameHaven, the newly opened e-commerce game selling store that offers you a variety of benefits and features.
+GameHaven is more than just a store. It is a platform where you can browse and buy games of different genres, platforms, and prices. You can also interact with other users, rate and review games, and get recommendations based on your preferences."</p>
+<h3 align="center">OUR MISSION</h3>
+<p align="center">"GameHaven is designed to make your gaming experience more enjoyable and convenient".</p>
+<footer>
+<h3 align="center">Contact Us</h3>
+<h4 align="center">Email: bscs2312147@szabist.pk,bscs2312180@szabist.pk.</h4>
+<h4 align="center">Phone: 03121818315,03402616198.</h4>
+<h4 align="center">Address: SZABIST,KARACHI.</h4>
+</footer>
+<h5 align="center">&copy;GAMEHAVEN.All rights reserved.All trademarks are the property of their respective owners(FAAIZ KHAN AND IRTIZA ALI).</h5>
+</body>
+</html>
+
+CODE EXPLAINATION:
+
+This HTML code builds a vibrant e-commerce webpage called "GAME HAVEN," designed to be an inviting online store for gamers. In the `<head>` section, you'll find the title and a favicon, which helps with branding. The `<style>` section sets the mood for the site, defining how headers, paragraphs, tables, and links will look—think bright colors and friendly alignments. 
+
+Moving into the `<body>`, the layout is well-organized, starting with a welcoming header that showcases the store's name and a catchy tagline. It features various sections for special offers, new arrivals, and game categories, each using clear headings for easy navigation. You'll see images, engaging descriptions, and direct links to purchase games. 
+
+Tables make it easy to compare offerings for PC and console games. There's also a space for customer reviews, fostering a sense of community, alongside an "About Us" section that shares the mission of GameHaven. Finally, the footer wraps up with essential contact details. Overall, this code is crafted to create a fun and user-friendly shopping experience for gaming enthusiasts!
+
+-------------------------------------------------------------------------------------------------------------
